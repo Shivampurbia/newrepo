@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA9E-CC62
+
+ Directory of C:\Users\admin\Desktop\VScode\newrepo
+
+10/13/2021  05:24 PM    <DIR>          .
+10/13/2021  05:24 PM    <DIR>          ..
+10/13/2021  05:24 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  266,688,716,800 bytes free
